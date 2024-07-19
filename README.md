@@ -4,8 +4,8 @@ This repository hosts Python scripts and tools for analyzing and visualizing dat
 
 **Key Features:**
 - **Data Parsing:** Efficient parsing of XML data exported from Apple Health, extracting various health metrics including steps, heart rate, workouts, and more.
-- **Statistical Analysis:** Calculation of daily, weekly, and monthly averages, trends, and correlations between different health parameters.
-- **Visualization:** Interactive charts and graphs using matplotlib, seaborn, or plotly for visualizing trends over time, comparing metrics, and exploring patterns.
+- **Statistical Analysis:** Calculation of daily, weekly, and monthly averages and trends between different health parameters.
+- **Visualization:** Interactive charts and graphs using matplotlib and seaborn for visualizing trends over time and exploring patterns.
 
 **Usage:**
 1. Export your health data from the Apple Health app.
